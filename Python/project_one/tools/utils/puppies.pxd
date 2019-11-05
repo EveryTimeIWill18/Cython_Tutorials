@@ -1,0 +1,3 @@
+# puppies.pxd
+
+cpdef sound()
